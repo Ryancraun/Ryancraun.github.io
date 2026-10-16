@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5ZBPB2C682.com.ryancraun.GroceryApp"],
+        "components": [
+          {
+            "/": "/i/*",
+            "comment": "Share links. Everything else on this host stays in the browser."
+          }
+        ]
+      }
+    ]
+  }
+}
